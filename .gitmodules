@@ -1,0 +1,18 @@
+[submodule "Object"]
+	path = Object
+	url = https://github.com/SanjoSolutions/LuaObject.git
+[submodule "Array"]
+	path = Array
+	url = https://github.com/SanjoSolutions/LuaArray.git
+[submodule "Math"]
+	path = Math
+	url = https://github.com/SanjoSolutions/LuaMath.git
+[submodule "Function"]
+	path = Function
+	url = https://github.com/SanjoSolutions/LuaFunction.git
+[submodule "String"]
+	path = String
+	url = https://github.com/SanjoSolutions/LuaString.git
+[submodule "Set"]
+	path = Set
+	url = https://github.com/SanjoSolutions/LuaSet.git
